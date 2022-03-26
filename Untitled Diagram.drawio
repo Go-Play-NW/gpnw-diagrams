@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T16:32:33.684Z" agent="5.0 (Windows)" etag="9G_IHdG_YxUmiok6mCWt" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T16:34:06.724Z" agent="5.0 (Windows)" etag="882mO5yLHC1KjglJ3lKo" version="17.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="s0pQWJOe3A9NYIYNYow5-0" value="&lt;div&gt;Click registration link&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="s0pQWJOe3A9NYIYNYow5-0" value="&lt;div&gt;Click registration link&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s0pQWJOe3A9NYIYNYow5-1" value="&lt;div&gt;Fill out registration form&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="s0pQWJOe3A9NYIYNYow5-1" value="&lt;div&gt;Fill out registration form&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s0pQWJOe3A9NYIYNYow5-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0pQWJOe3A9NYIYNYow5-0" target="s0pQWJOe3A9NYIYNYow5-1" edge="1">
+        <mxCell id="s0pQWJOe3A9NYIYNYow5-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0pQWJOe3A9NYIYNYow5-0" target="s0pQWJOe3A9NYIYNYow5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s0pQWJOe3A9NYIYNYow5-4" value="GPNW" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="140" width="180" height="180" as="geometry" />
+        <mxCell id="s0pQWJOe3A9NYIYNYow5-6" value="GPNW web site" style="swimlane;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="300" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
