@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T18:26:34.870Z" agent="5.0 (Windows)" etag="sKpPoVXpCSk2NScWLPxS" version="17.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T06:20:31.704Z" agent="5.0 (Windows)" etag="gShoNPm3uXWolz79kr0Y" version="17.1.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Event Registration">
     <mxGraphModel dx="1422" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bplon78fEs0VXEiEB44Z-109" value="Contact GM/Facilitator for revisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bplon78fEs0VXEiEB44Z-94">
-          <mxGeometry x="225" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bplon78fEs0VXEiEB44Z-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bplon78fEs0VXEiEB44Z-94" source="bplon78fEs0VXEiEB44Z-109" target="bplon78fEs0VXEiEB44Z-109">
           <mxGeometry relative="1" as="geometry" />
@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bplon78fEs0VXEiEB44Z-111" value="Does problem require contacting GM/Facilitator?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="bplon78fEs0VXEiEB44Z-94">
-          <mxGeometry x="220" y="215" width="130" height="130" as="geometry" />
+          <mxGeometry x="215" y="215" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bplon78fEs0VXEiEB44Z-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bplon78fEs0VXEiEB44Z-94" source="bplon78fEs0VXEiEB44Z-113" target="bplon78fEs0VXEiEB44Z-124">
           <mxGeometry relative="1" as="geometry">
@@ -342,7 +342,7 @@
           <mxGeometry x="50" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bplon78fEs0VXEiEB44Z-124" value="Mark as Vetted" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="bplon78fEs0VXEiEB44Z-94">
-          <mxGeometry x="245" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bplon78fEs0VXEiEB44Z-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bplon78fEs0VXEiEB44Z-94" source="bplon78fEs0VXEiEB44Z-107" target="bplon78fEs0VXEiEB44Z-124">
           <mxGeometry relative="1" as="geometry">
@@ -350,7 +350,7 @@
             <Array as="points">
               <mxPoint x="40" y="110" />
               <mxPoint x="40" y="670" />
-              <mxPoint x="290" y="670" />
+              <mxPoint x="280" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
